@@ -3,8 +3,8 @@
     font-size: 18px;
     background-color: #fff;
     border: 1px solid #ccc;
-    width: 60px;
-    height: 50px;
+    width: 80px;
+    height: 60px;
     border-radius: 5px;
     
 }
@@ -12,7 +12,7 @@
     padding: 20px;
     background-color: #161515;
     border: 1px solid #ccc;
-    width: 300px;
+
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     color: white;
@@ -25,8 +25,8 @@
     font-size: 18px;
    
     border: 1px solid #ccc;
-    width: 60px;
-    height: 50px;
+    width: 80px;
+    height: 60px;
     border-radius: 5px;
     padding: 5px;
     
@@ -39,8 +39,8 @@
     font-size: 18px;
    
     border: 1px solid #ccc;
-    width: 60px;
-    height: 50px;
+    width: 80px;
+    height: 60px;
     border-radius: 5px;
     padding: 5px;
 }
@@ -49,8 +49,8 @@
   color: #fff;
   font-size: 18px;
   border: 1px solid #ccc;
-  width: 60px;
-  height: 50px;
+  width: 80px;
+  height: 60px;
   border-radius: 5px;
   padding: 5px;
 }
@@ -60,5 +60,5 @@
 }
 .bod{
     height: 100vh;
-    padding: 200px;
+    
 }
